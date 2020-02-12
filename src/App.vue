@@ -1,8 +1,16 @@
 <template>
   <div id="app">
+    <navbar></navbar>
     <router-view />
   </div>
 </template>
 
-<style lang="scss">
-</style>
+<script>
+import Navbar from "@/components/globals/Navbar";
+
+export default {
+  components: {
+    Navbar
+  }
+};
+</script>

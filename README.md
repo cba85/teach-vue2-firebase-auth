@@ -1,5 +1,7 @@
 # teach-vue-firebase-auth
 
+> For demonstration purpose only
+
 ## Steps
 
 1. Create Vue projet and clean files

@@ -2,6 +2,10 @@
 
 > For demonstration purpose only
 
+## Usage
+
+Add your Firebase credentials in `main.js`: https://firebase.google.com/docs/web/setup?authuser=0#add-sdks-initialize
+
 ## Steps
 
 1. Create Vue projet and clean files
